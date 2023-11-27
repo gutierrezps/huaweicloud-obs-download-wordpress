@@ -3,7 +3,7 @@
  * OBS Download Button - PHP Code Snippet for WordPress
  * Author: Gabriel Gutierrez PS
  * Available at: <https://github.com/gutierrezps/huaweicloud-obs-download-wordpress>
- * Version: 1.0 - 2023-11-27
+ * Version: 1.0.0 - 2023-11-27
  */
 
 // Parameters that must be updated with your data
